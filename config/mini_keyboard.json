@@ -1,11 +1,14 @@
 {
+  "id": "mini_keyboard",
+  "name": "mini_keyboard",
   "layouts": {
     "Default Layout": {
       "layout": [
-        { "x": 0.0, "y": 0.0 },
-        { "x": 1.0, "y": 0.0 },
-        { "x": 2.0, "y": 0.0 }
+        { "x": 0, "y": 0 },
+        { "x": 1, "y": 0 },
+        { "x": 2, "y": 0 }
       ]
     }
-  }
+  },
+  "sensors": []
 }
