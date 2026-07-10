@@ -2,6 +2,11 @@
 #include <dt-bindings/zmk/bt.h>
 #include <dt-bindings/zmk/keys.h>
 
+&lt {
+    flavor = "balanced";
+    quick-tap-ms = <150>;
+};
+
 / {
     macros {
         bt_clr_macro: bt_clr_macro {
